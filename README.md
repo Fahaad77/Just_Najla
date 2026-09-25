@@ -4,7 +4,7 @@ Static bilingual portfolio prepared for GitHub Pages. Open `index.html` or serve
 
 ## Publish
 
-Create a public repository named `Just_Najla` in the chosen GitHub account. Upload the contents of this folder to the repository root. In **Settings → Pages**, set **Build and deployment → Deploy from a branch → main / (root)**. The URL will be `https://USERNAME.github.io/Just_Najla/`.
+Create a public repository named `Just_Najla` in the chosen GitHub account. Upload the contents of this folder to the repository root. In **Settings → Pages**, set **Build and deployment → Deploy from a branch → main / (root)**. The URL will be `https://fahaad77.github.io/Just_Najla/`.
 
 The workforce planning case study describes an actual dashboard supplied as a screenshot by the user. The website includes an anonymized visual recreation based on that screenshot. It is not a faithful data copy: original text, figures and unit names were removed. The source image and workbook are intentionally excluded. Do not add their details to the published site without a confidentiality review.
 
